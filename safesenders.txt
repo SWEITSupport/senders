@@ -1,6 +1,11 @@
-donotreply@selima.co.uk socialworkengland@notifications.service.gov.uk
-donotreply@unit4cloud.com jira@sweitsupport.atlassian.net
-confluence@mail-eu.atlassian.net admin@socialworkenglandtest.appiancloud.com confluence@socialworkengland.atlassian.net admin@tractivity.co.uk
+donotreply@selima.co.uk 
+socialworkengland@notifications.service.gov.uk
+donotreply@unit4cloud.com 
+jira@sweitsupport.atlassian.net
+confluence@mail-eu.atlassian.net 
+admin@socialworkenglandtest.appiancloud.com 
+confluence@socialworkengland.atlassian.net 
+admin@tractivity.co.uk
 o365mc@microsoft.com
 noreply@planner.office365.com
 Office365Alerts@microsoft.com
